@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="sans-serif" font-size="16" fill="#182430">
+<text x="360" y="28" text-anchor="middle" font-size="20">GBN goodput versus packet loss</text>
+<path d="M 85 355.0 H 675" stroke="#dddddd"/>
+<text x="73" y="360.0" text-anchor="end">0</text>
+<path d="M 85 295.0 H 675" stroke="#dddddd"/>
+<text x="73" y="300.0" text-anchor="end">2</text>
+<path d="M 85 235.0 H 675" stroke="#dddddd"/>
+<text x="73" y="240.0" text-anchor="end">4</text>
+<path d="M 85 175.0 H 675" stroke="#dddddd"/>
+<text x="73" y="180.0" text-anchor="end">6</text>
+<path d="M 85 115.0 H 675" stroke="#dddddd"/>
+<text x="73" y="120.0" text-anchor="end">8</text>
+<path d="M 85 55.0 H 675" stroke="#dddddd"/>
+<text x="73" y="60.0" text-anchor="end">10</text>
+<text x="85.0" y="382" text-anchor="middle">0.02</text>
+<circle cx="85.0" cy="75.48613051000001" r="5" fill="#1768a5"/>
+<text x="85.0" y="63.48613051000001" text-anchor="middle">9.32</text>
+<text x="232.5" y="382" text-anchor="middle">0.04</text>
+<circle cx="232.5" cy="75.48613051000001" r="5" fill="#1768a5"/>
+<text x="232.5" y="63.48613051000001" text-anchor="middle">9.32</text>
+<text x="379.99999999999994" y="382" text-anchor="middle">0.06</text>
+<circle cx="379.99999999999994" cy="199.93992457" r="5" fill="#1768a5"/>
+<text x="379.99999999999994" y="187.93992457" text-anchor="middle">5.17</text>
+<text x="527.5" y="382" text-anchor="middle">0.08</text>
+<circle cx="527.5" cy="209.78751055" r="5" fill="#1768a5"/>
+<text x="527.5" y="197.78751055" text-anchor="middle">4.84</text>
+<text x="675.0" y="382" text-anchor="middle">0.10</text>
+<circle cx="675.0" cy="248.10590071000001" r="5" fill="#1768a5"/>
+<text x="675.0" y="236.10590071000001" text-anchor="middle">3.56</text>
+<polyline points="85.0,75.48613051000001 232.5,75.48613051000001 379.99999999999994,199.93992457 527.5,209.78751055 675.0,248.10590071000001" fill="none" stroke="#1768a5" stroke-width="2"/>
+<path d="M 85 55 V 355 H 675" fill="none" stroke="#182430"/>
+<text x="380" y="412" text-anchor="middle">Packet loss probability (same for DATA and ACK)</text>
+<text transform="translate(24,210) rotate(-90)" text-anchor="middle">Goodput (% of 10 Mbps)</text>
+<text x="380" y="437" text-anchor="middle" font-size="13">Window 7; initial sequence 5; seed 1; run 1; 100 × 1000-byte payloads</text>
+</g></svg>

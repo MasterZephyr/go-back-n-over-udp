@@ -1,0 +1,2 @@
+PASS: 9 complete transfers with event and tshark validation; deterministic PCAP replay; 2 total-loss failures handled; 4 invalid inputs rejected.
+See summary.csv, case logs, packet CSVs, and captures/validation/.
